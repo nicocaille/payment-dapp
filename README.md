@@ -119,3 +119,5 @@ To compile and deploy the smart contract run the following command:
 truffle compile
 truffle deploy --network matic
 ```
+
+Based on the successful completion of the last command, you will have the smart contract address in the terminal to put in the frontend part of this dapp and also to be added to MetaMask to see your tokens balance.
